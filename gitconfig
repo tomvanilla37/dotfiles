@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = florianmuellenmeister@gmail.com
+	name = Florian Muellenmeister
