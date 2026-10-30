@@ -89,4 +89,5 @@
     "workbench.colorTheme": "Dark Modern",
     "dart.flutterSdkPath": "/Users/flo/development/flutter",
     "editor.accessibilitySupport": "off",
+    "terminal.integrated.fontFamily": "'JetBrainsMono Nerd Font'",
 }
