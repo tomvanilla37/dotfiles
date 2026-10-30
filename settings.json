@@ -6,7 +6,7 @@
     },
     "editor.bracketPairColorization.enabled": true,
     "editor.detectIndentation": false,
-    "editor.fontSize": 14,
+    "editor.fontSize": 16,
     "editor.guides.bracketPairs": true,
     "editor.minimap.enabled": false,
     "editor.multiCursorModifier": "ctrlCmd",
@@ -84,4 +84,9 @@
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
+
+    // Flo's personal settings (restored from previous setup)
+    "workbench.colorTheme": "Dark Modern",
+    "dart.flutterSdkPath": "/Users/flo/development/flutter",
+    "editor.accessibilitySupport": "off",
 }
