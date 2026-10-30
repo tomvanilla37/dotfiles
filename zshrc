@@ -88,3 +88,6 @@ fi
 
 # Hook direnv but only if direnv is installed
 if (( $+commands[direnv] )); then eval "$(direnv hook zsh)"; fi
+
+# Starship prompt (Flo's addition, overrides the oh-my-zsh theme)
+if (( $+commands[starship] )); then eval "$(starship init zsh)"; fi
